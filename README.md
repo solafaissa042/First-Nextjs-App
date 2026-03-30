@@ -1,5 +1,5 @@
 📌 Next.js Data Fetching Demo:
-A modern Next.js application demonstrating advanced data fetching techniques using React Suspense, loading states, and efficient server-side data handling.
+A modern Next.js application demonstrating advanced data fetching techniques using React Suspense, loading states, ISR: Pages are statically generated and automatically refreshed in the background using ISR and efficient server-side data handling.
 This project showcases best practices for building responsive and scalable web applications with Next.js App Router.
 
 🚀 Features:
